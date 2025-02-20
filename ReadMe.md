@@ -16,7 +16,7 @@ First, clone the MK4006-A24-DMP repository to your local machine.
 3.  **Use the `git clone` command:** with the repository URL provided.
 
     ```bash
-    git clone [https://github.com/iman-hussain/MK4006-A24-DMP.git](https://www.google.com/search?q=https://github.com/iman-hussain/MK4006-A24-DMP.git)
+    git clone https://github.com/iman-hussain/MK4006-A24-DMP.git
     ```
 
 4.  **Navigate into the cloned repository directory:**
@@ -36,7 +36,7 @@ First, clone the MK4006-A24-DMP repository to your local machine.
 3.  **Use the `git clone` command:** with the repository URL.
 
     ```bash
-    git clone [https://github.com/iman-hussain/MK4006-A24-DMP.git](https://www.google.com/search?q=https://github.com/iman-hussain/MK4006-A24-DMP.git)
+    git clone https://github.com/iman-hussain/MK4006-A24-DMP.git
     ```
 
 4.  **Navigate into the cloned repository directory:**
@@ -111,7 +111,7 @@ After completing these steps, your new document will be available in the MK4006-
 ```bash
 # Step 1: Clone the Repository
 cd <your-desired-directory>
-git clone [https://github.com/iman-hussain/MK4006-A24-DMP.git](https://www.google.com/search?q=https://github.com/iman-hussain/MK4006-A24-DMP.git)
+git clone https://github.com/iman-hussain/MK4006-A24-DMP.git
 cd MK4006-A24-DMP
 
 # Step 2: Create a New Document
